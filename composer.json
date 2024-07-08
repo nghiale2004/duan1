@@ -1,0 +1,9 @@
+{
+    "name": "admin/duan1",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Duan1\\": "src/"
+        }
+    },
+    "require": {}
+}
